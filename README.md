@@ -1,6 +1,6 @@
 # Author: Adil Rasheed
 # 🦀 Breast Cancer Prediction Using Machine Learning.
-** Table Of Content **
+**Table Of Content**
 1. Gathering Data
 2. Exploratory Data Analysis
 3. Data Visualizations
