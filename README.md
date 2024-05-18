@@ -9,5 +9,5 @@
 6. HyperTunning the ML Model
 7. Deploy Model
 
-# Deply and check the results:
+# Deploy and check the results:
 ![Alt text](https://github.com/adilrasheed139/Breast-Cancer-Prediction-ML-Project/blob/main/Result.jpg)
